@@ -1,1 +1,2 @@
 Esta es la historia de ejemplo para el curso de Git y GitHub.
+Creado por Paul Cabeza.
